@@ -21,8 +21,8 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 6356050482
-    OWNER_USERNAME = "@Veron_seller"
+    OWNER_ID = 7774827065
+    OWNER_USERNAME = "@eren_aethonix"
     SUPPORT_CHAT = -1002682161298
     SUPPORT_CHAT_USERNAME = "VERON_SUPPORTS"
     SUPPORT_CHAT_LINK = "https://t.me/VERON_SUPPORTS"
