@@ -5,10 +5,10 @@ class config:
     #Client
     API_ID = 21968859
     API_HASH = "21a59d21687f01d448530ee88a26b1eb"
-    BOT_TOKEN = "7607794789:AAFZFpxCfgv5PPEp3OkkvYXpOLzmGy7bbIE"
-    BOT_NAME = "耀•|Kᴏᴋᴜsʜɪʙᴏ"
-    BOT_USERNAME = "@TheKokushibobot"
-    BOT_ID = 7607794789
+    BOT_TOKEN = "8321799763:AAE_1fSuZny6IJ5Vs4OHBJOi_woeP6agn_Q"
+    BOT_NAME = "𝐆𝐨𝐤𝐮 𝐒𝐞𝐧𝐬𝐞𝐢"
+    BOT_USERNAME = "@goku_xprobot"
+    BOT_ID = 8321799763
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -26,8 +26,8 @@ class config:
     SUPPORT_CHAT = -1002682161298
     SUPPORT_CHAT_USERNAME = "VERON_SUPPORTS"
     SUPPORT_CHAT_LINK = "https://t.me/VERON_SUPPORTS"
-    LOG_CHANNEL = -1002485775078
-    ERROR_LOG_CHANNEL = -1002485775078
+    LOG_CHANNEL = --1002470086715
+    ERROR_LOG_CHANNEL = --1002470086715
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
