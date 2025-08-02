@@ -26,15 +26,15 @@ class config:
     SUPPORT_CHAT = -1002682161298
     SUPPORT_CHAT_USERNAME = "VERON_SUPPORTS"
     SUPPORT_CHAT_LINK = "https://t.me/VERON_SUPPORTS"
-    LOG_CHANNEL = --1002470086715
-    ERROR_LOG_CHANNEL = --1002470086715
+    LOG_CHANNEL = -1002470086715
+    ERROR_LOG_CHANNEL = -1002470086715
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
-    START_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
-    HELP_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
-    ALIVE_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
+    STATS_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
+    START_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
+    HELP_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
+    ALIVE_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
     
     MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
     DATABASE_NAME = "test"
