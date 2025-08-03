@@ -21,15 +21,15 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 7893826363
-    OWNER_USERNAME = "@HATED_PREADIATOR"
+    OWNER_ID = 7267729758
+    OWNER_USERNAME = "@boaassistant"
     SUPPORT_CHAT = -1002682161298
     SUPPORT_CHAT_USERNAME = "VERON_SUPPORTS"
     SUPPORT_CHAT_LINK = "https://t.me/VERON_SUPPORTS"
     LOG_CHANNEL = -1002470086715
     ERROR_LOG_CHANNEL = -1002470086715
     DOWNLOAD_LOCATION = "./downloads"
-    COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
+    COMMAND_PREFIXES = ["/7267729758" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
     STATS_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
     START_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
